@@ -1,2 +1,0 @@
-password = 33933-22
-usersame= kwame owusu
